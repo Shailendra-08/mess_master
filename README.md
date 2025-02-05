@@ -18,10 +18,6 @@ Youtube Demo: https://youtu.be/-OyiRB0WPNc
 7. Multilanguage Feature (Hindi,Marathi,English(default))
 8. Login and Logout Feature
 
-## created By 
-1. Shailendra Mahadule - (Shailendra-08)
-2. Aaditya Patil       - (aaditya-1219)
-3. Rakesh Dharne       - (rakeshdharne)
 
 
 ## Screens of Application
